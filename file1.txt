@@ -1,2 +1,2 @@
 This is git demo
-This is first change to original file
+This is demo to parallel development
